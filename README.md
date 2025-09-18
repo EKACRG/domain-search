@@ -27,7 +27,7 @@ const options = {
 - Retrieve domain-related data such as registration information, creation date, expiration date, and WHOIS records.
 
 ## Live Application
-Online website: [domain-search](https://anouarelkihal.github.io/domain-search/)
+Online website: [domain-search](https://ekacrg.github.io/domain-search/)
 > ![domain-search-screen](https://github.com/AnouarElKihal/domain-search/assets/68613907/634ce7fc-5316-4afe-99bf-5174716e8a3c)
 
 
